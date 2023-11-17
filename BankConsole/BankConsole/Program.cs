@@ -125,6 +125,13 @@ class Program
                 Console.WriteLine("       -----                                                                         -----\n");
                 Console.WriteLine("       -----------------------------------------------------------------------------------");
                 Console.ReadLine(); 
+                Console.WriteLine("        -------------------------------------------------------------------------------------");
+                Thread.Sleep(3500);
+                Console.WriteLine("        -----                                                                           -----\n");
+                Console.WriteLine("        ---                          Espere en lo que se procesa la accion...             ---");
+                Console.WriteLine("        ---        Se retornara al inicio de las opciones que tenga un buen dia           ---");
+                Console.WriteLine("        -----                                          :)                               -----\n");
+                Console.WriteLine("        -------------------------------------------------------------------------------------");
         
     }
 }
